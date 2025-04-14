@@ -1,2 +1,0 @@
-    import "/Users/zhuyq0719/my-docs/node_modules/.pnpm/@vuepress+plugin-markdown-ext@2.0.0-rc.94_markdown-it@14.1.0_vuepress@2.0.0-rc.21_@vuep_d0d0e82cd5ce4c7dd747660a894deff5/node_modules/@vuepress/plugin-markdown-ext/lib/client/styles/footnote.css"
-    import "/Users/zhuyq0719/my-docs/node_modules/.pnpm/@vuepress+plugin-markdown-ext@2.0.0-rc.94_markdown-it@14.1.0_vuepress@2.0.0-rc.21_@vuep_d0d0e82cd5ce4c7dd747660a894deff5/node_modules/@vuepress/plugin-markdown-ext/lib/client/styles/tasklist.css"
